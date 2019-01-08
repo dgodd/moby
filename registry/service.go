@@ -9,7 +9,7 @@ import (
 
 	"golang.org/x/net/context"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/docker/distribution/registry/client/auth"
 	"github.com/docker/docker/reference"
 	"github.com/docker/engine-api/types"
